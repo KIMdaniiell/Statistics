@@ -1,5 +1,5 @@
 # Ответы на онлайн курс
-![Alt text](зачет.png?raw=true "Title"  )
+![Alt text](экзамен.png?raw=true "Title"  )
 
 ## В зачете 11 заданий:
   
